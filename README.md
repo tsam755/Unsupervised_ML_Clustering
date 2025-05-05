@@ -49,5 +49,5 @@ Each segment was analyzed to suggest targeted marketing strategies:
 - **Verhoef et al. (2003)**: Customer Retention and Marketing.
 - **Keiningham et al. (2007)**: The Value of Customer Satisfaction Metrics.
 
-## Disclaimer
+## ❗️Disclaimer
 This project was developed as part of academic coursework and is shared here for educational and profolio purpose. Unauthorised use, reproduction or distribution is not permitted and may violate academic integrity policies. 
