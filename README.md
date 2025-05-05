@@ -40,9 +40,7 @@ Each segment was analyzed to suggest targeted marketing strategies:
 - **Moderate Income – Savers**: Encourage investment with low-risk funds and personal loans.
 - **High Income – Credit Heavy Savers**: Provide personalized credit card upgrades and home loans.
   
-## 💬 Contact & Acknowledgements
-- **GitHub**: [Your GitHub Profile Link]
-- **Email**: [Your Email]
+## 💬 Acknowledgements
 - **Acknowledgement**: This project utilizes AI tools like OpenAI’s ChatGPT for drafting and refining parts of the report, providing valuable insights and support for analysis.
 
 ## 📄 References
